@@ -1,0 +1,2 @@
+# calculadora-HTML-CSS-e-js
+Esta calculadora foi criada a partir de de alguns tutoriais e aulas disponíveis no youtube, com o foco de trazer um conhecimento mais aprofundado do uso das tags no javascript! Tais como a tag function, var, if, else, onclick... Também com o intuito de trazer a utilização do getElementById mostrando de forma simples como podemos selecionar os elementos do HTML com o uso dessa tag. Também a utilizando da string length para retornar o número das unidades presentes dentro do projeto!
